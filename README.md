@@ -4,7 +4,7 @@ nele foi utilizado:
 - HTML.
 - CSS.
 - Mobile-First, para focar na responsividade e experiencia do usuário.
-- Fiz a importação um plugin (no caso o Swiperjs).
+- Fiz a importação um plugin (no caso Swiperjs).
 - Usei o media queries;
 -  Foi aplicado diferentes estilos para diferentes tamanhos de tela;
 -  Aplicamos elementos na tela de acordo com o tamanho do dispositivo.
