@@ -5,7 +5,7 @@ nele foi utilizado:
 - CSS.
 - Mobile-First, para focar na responsividade e experiencia do usuário.
 - Fiz a importação um plugin (no caso Swiperjs).
-- Usei o media queries;
+- Usei o Media Queries;
 -  Foi aplicado diferentes estilos para diferentes tamanhos de tela;
 -  Aplicamos elementos na tela de acordo com o tamanho do dispositivo.
 -  Foi desenvolvido tendo como base o projeto criado no Figma;
