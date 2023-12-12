@@ -1,6 +1,6 @@
 # alura-books
-Esse projeto foi desenvolvido durante as aulas do curso HTML e CSS: Responsividade 
-Nele foi utilizado:
+Esse projeto foi desenvolvido durante as aulas do curso HTML e CSS: Responsividade, 
+nele foi utilizado:
 - HTML.
 - CSS.
 - Mobile-First, para focar na responsividade e experiencia do usuário.
